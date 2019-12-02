@@ -1,0 +1,37 @@
+{
+  "name": "react-fluid-gallery",
+  "version": "1.0.0",
+  "description": "Fluid media gallery for React powered by WebGL.",
+  "keywords": [
+    "webgl",
+    "three.js",
+    "gallery",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "is-video": "1.0.1",
+    "prop-types": "15.6.2",
+    "raf": "3.4.1",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-fluid-gallery": "1.0.2",
+    "react-scripts": "2.0.3",
+    "react-sizeme": "2.5.2",
+    "react-swipeable": "4.3.0",
+    "three": "0.96.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
