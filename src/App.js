@@ -45,15 +45,15 @@ export default class App extends Component {
               textShadow: '2px 2px 8px rgba(0, 0, 0, 0.5)'
             }}
           >
-            React Fluid Gallery
+            Martin Andersen
           </h1>
 
           <p
             style={{
-              fontSize: '1.5em'
+              fontSize: '1.0em'
             }}
           >
-            Scroll with your mouse wheel or by swiping.
+            (use mouse wheel or swiping.)
           </p>
         </div>
       </div>
